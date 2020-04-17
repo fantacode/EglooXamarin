@@ -1,10 +1,10 @@
 ﻿<Project Sdk="MSBuild.Sdk.Extras/2.0.54">
 	<PropertyGroup>
-		<TargetFrameworks>MonoAndroid90;MonoAndroid10.0;</TargetFrameworks>
+		<TargetFrameworks>MonoAndroid90</TargetFrameworks>
 		<AssemblyName>Egloo</AssemblyName>
 		<RootNamespace>Egloo</RootNamespace>
 		<Description>Xamarin bindings for Egloo Library</Description>
-		<PackageId>Fantacode.Plugin.Egloo</PackageId>
+		<PackageId>EglooXamarin</PackageId>
 		<IsBindingProject>true</IsBindingProject>
 		<EnableDefaultItems>false</EnableDefaultItems>
 		<AndroidClassParser>jar2xml</AndroidClassParser>
