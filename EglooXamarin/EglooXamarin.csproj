@@ -12,7 +12,7 @@
 		<Version>0.4.0</Version>
 		<Authors>Abdul Muhaymin Arif</Authors>
 		<Company>Fantacode Private Limiteds</Company>
-		<Summary>Fantacode.Plugin.Egloo: Xamarin Binding for https://github.com/natario1/Egloo Project.</Summary>
+		<Summary>EglooXamarin: Xamarin Binding for https://github.com/natario1/Egloo Project.</Summary>
 		<Description>Egloo (formerly EglCore) is a simple and lightweight framework for OpenGL ES drawing and EGL management in Android that uses object-oriented components - hence the name Egloo. It can serve as a basis for complex drawing operations, but is mostly designed for helping in making common tasks simpler, even for people that do not have any OpenGL experience.</Description>
 		<PackageTags>xamarin, android, egloo</PackageTags>
 		<Copyright>©Fantacode Private Limited. All rights reserved.</Copyright>
